@@ -1,9 +1,11 @@
 ###    Hi there.👋</br>
-  😆 这里是正在学习各项技能的小白开发者···</br>
+  😆 IM new here,a noob of .NET Development learning···
   
-  😊 欢迎技术交流 </br>
+  🍺 There are many things i want to do,but my skill tree was in a low level// so just keep learning..
   
-  👉 也欢迎访问我的    [![](https://shields.io/badge/Blog-Welcome!-9cf?logo=stellar&style=flat-square)](tinystarovo.gitee.io)</br></br>
+  🚀 Let's change the world little by little!
+  
+  👉 Welcome to visit my blog:   [![](https://shields.io/badge/Blog-Welcome!-9cf?logo=stellar&style=flat-square)](http://tinystarovo.gitee.io/)</br></br>
   [![Fx.Lab_Christer's github stats](https://github-readme-stats.vercel.app/api?username=FreeXMelody&show_icons=true&theme=vue)](https://github.com/FreeXMelody/github-readme-stats)
 
 ### Project(s) in development：
