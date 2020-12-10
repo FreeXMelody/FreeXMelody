@@ -1,5 +1,5 @@
 ###    Hi there.👋</br>
-  😆 IM new here,a noob of .NET Development learning···
+  😆 IM new here,a noob of .NET Development ···
   
   🍺 There are many things i want to do,but my skill tree was in a low level// so just keep learning..
   
