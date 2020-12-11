@@ -12,5 +12,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FreeXMelody&repo=RapidController&theme=vue)](https://github.com/FreeXMelody/RapidController)
 ---
 
-![hah.gif](https://i.loli.net/2020/12/11/JohR4pDF2gWG7iK.gif)
-![catcat.gif](https://i.loli.net/2020/12/11/sImSi1TbE8uM9jQ.gif)
+
+<div align="center">
+	<img src="https://i.loli.net/2020/12/11/sImSi1TbE8uM9jQ.gif" align="middle" width="30%" style="box-shadow: 0px 0px 20px -10px #888">
+</div>
