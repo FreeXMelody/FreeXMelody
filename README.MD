@@ -14,7 +14,10 @@
 <details>
    <summary>Github Stats</summary>
    <img align="left" style="display: block;" alt="[Fx.Lab_Christer's github stats" src="https://github-readme-stats.vercel.app/api?username=FreeXMelody&show_icons=true&hide_border=true&theme=vue" />
-</details><br>
+</details>
+<br>
+
+---
 
 ### Project(s) in development：
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FreeXMelody&repo=RapidController&theme=vue)](https://github.com/FreeXMelody/RapidController)
