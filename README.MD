@@ -13,7 +13,7 @@
 
 
 ### 🛠️ Project(s) in development：
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FreeXMelody&repo=RapidController&theme=vue)](https://github.com/FreeXMelody/RapidController)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FreeXMelody&repo=NetworkCrawler&theme=vue)](https://github.com/FreeXMelody/NetworkCrawler)
 ---
 
 <details>
