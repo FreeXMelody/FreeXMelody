@@ -4,6 +4,7 @@ TechStack:
 	C#.NET
 	Python
 	something misc...
+Still following tutorials
 
 ### 🛠️ Project(s) in development：
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FreeXMelody&repo=NetworkCrawler&theme=vue)](https://github.com/FreeXMelody/NetworkCrawler)
