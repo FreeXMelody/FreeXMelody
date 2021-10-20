@@ -6,6 +6,9 @@ Still following tutorials
 ![CSharp](https://img.shields.io/badge/CSharp-641e77.svg?logoWidth=20&style=for-the-badge&logo=csharp&logoColor=ffffff)
 ![python](https://img.shields.io/badge/Python-FBBE55.svg?logoWidth=20&style=for-the-badge&logo=Python&logoColor=ffffff)
 <br>
+![JavaScript](https://img.shields.io/badge/JavaScript-efda4d.svg?logoWidth=20&style=for-the-badge&logo=JavaScript&logoColor=FFFFFF)
+
+
 
 <br>
 
