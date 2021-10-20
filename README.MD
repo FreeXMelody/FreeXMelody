@@ -9,6 +9,8 @@
 ![python](https://img.shields.io/badge/Python-FBBE55.svg?logoWidth=20&style=for-the-badge&logo=Python&logoColor=ffffff)
 <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-efda4d.svg?logoWidth=20&style=for-the-badge&logo=JavaScript&logoColor=FFFFFF)
+![Css3](https://img.shields.io/badge/CSS3-2bacdf.svg?logoWidth=20&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
+
 
 
 
