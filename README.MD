@@ -1,11 +1,14 @@
 ###    Hi there.👋
-New here..
-TechStack:
-	C#.NET
-	Python
-	something misc...
+I'm new here..
+### TechStack
+![html5](https://img.shields.io/badge/html5-E34F26.svg?logoWidth=20&style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSharp](https://img.shields.io/badge/CSharp-641e77.svg?logoWidth=20&style=for-the-badge&logo=csharp&logoColor=ffffff)
+![python](https://img.shields.io/badge/Python-FBBE55.svg?logoWidth=20&style=for-the-badge&logo=Python&logoColor=ffffff)
+with something misc...
 <br>
 Still following tutorials
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreeXMelody&layout=compact)](https://github.com/FreeXMelody/github-readme-stats)
 
 ### 🛠️ Project(s) in development：
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FreeXMelody&repo=NetworkCrawler&theme=vue)](https://github.com/FreeXMelody/NetworkCrawler)
