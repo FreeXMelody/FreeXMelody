@@ -1,7 +1,4 @@
-###   👋 Hi there.
-<span style="font-size: 10px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">I'm new here..<br>
-   Still following tutorials
-</span>
+###   🔎 ALWAYS LEARNING
 
 ###   💡 TechStack
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?logoWidth=20&style=for-the-badge&logo=html5&logoColor=ffffff)
