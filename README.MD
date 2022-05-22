@@ -7,6 +7,8 @@
   <br/>
   Currently still learning essential tech stack , yep.. just do things i need. 🍃
   <br/>
+  ＾－＾
+  <br/>
   <br/>
 </p>
 
