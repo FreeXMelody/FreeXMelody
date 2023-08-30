@@ -3,11 +3,10 @@
 </h1>
 
 <p align='center'>
-  A noob .NET developer who is still finding a way to catch on to the world.
+  IM ALWAYS NEW HERE TO DISCOVER SOMETHING GAME-CHANGING PROJs
   <br/>
-  Currently still learning essential tech stack , yep.. just do things i need. 🍃
+  Still learning essential tech stack currently. HOPE WE CAN MAKE THIS WORLD BETTER 🍃
   <br/>
-  ＾－＾
   <br/>
   <br/>
 </p>
